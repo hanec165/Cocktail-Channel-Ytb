@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+    <head>
+        <title> Cocktail channel youtube</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header> COCKTAIL CHANNEL YOUTUBE </header>
+        <div>
+        <p>Hello dear friends,</p> <br> <p> You are here in our webiste. We create this site especially for you because we want you to know more about this channel and about the authors of this youtube channel. </p><br> <p>In the end of this page, we will make a short sondage, please respond on it and be honest so we can see our progress. ENJOY!</p>
+        </div>
+        <div>
+       <h1>Why Cocktail channel?</h1> <h2> What is the main content of the videos?</h2>
+        <p>As you know a cocktail juice is made of different type of fruits. Here Cocktail channel will offer you various types of videos such as sport, countries and languages, religion , food, animals,... In other words, all types will be talked.<br> Moreover, each <strong>Monday</strong>, we will post a video about horror history. Do you like horror movie or video about general knowledge? If yes, this channel is made for you.<br> Now, do you ever see a video about games?Yes, yes, you are reading correcty,<strong>VIDEOS ABOUT GAMES</strong>.</p>
+        </div>
+        <div>
+            <h1> Why did we choose various type of videos?</h1>
+            <p>Because we want in one hand, offer you new informations so you expand your general knowledge, and in the other hand have fun while watching our videos. </p>
+        </div>
+        <div>
+            <h1>Who's the members of the Channel?</h1>
+            <p>This channel is made of 4 participants, they are:</p>
+            <ul>
+                <li>Elie-joe El Khoury. 16 years old. From Lebanon.</li>
+                <li>Nancy Louis. 14 years old. From Lebanon.</li>
+                <li>Anthony Louis. 13 years old. From Lebanon</li>
+                <li>Cloe El Khoury. 12 years old. From Lebanon.</li>
+            </ul>
+            <p> You can speak with us with different languages such as English, French, Arabic, Spanish, Turkish and Hindi.</p>
+        </div>
+            
+        <div>
+                <h2> This is our profile picture:</h2>
+                <a  href="https://youtube.com/channel/UC1ZdnnqRw5S-GEV-K4j1SGw" target="_blank">
+                    <img src="image1.jpg">
+                </a>
+                <p> Click on the photo to access to the Channel.</p>
+        </div>
+        <div>
+            <h2> And now see this video to familiarize with the channel.</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LKAPexS1-mA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div>
+            <a href="https://forms.office.com/Pages/DesignPage.aspx?origin=OfficeDotCom&lang=en-US&route=Start&fromAR=1#FormId=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__RjIK91UQkZJTVE4U1VRRjgxQkVFSkU3WENZMDJLMy4u" target="_blank">click here to answer our short sondage.</a>
+        
+        </div>
+       
+        <footer>
+            <p> These are the links please follow us for more informations about the videos. </p>
+            <ul>
+            <li><a href="https://instagram.com/cocktheader
+            ail_channel_yt?igshid=1bnpnbd9cwqc3" target="_blank">Instagram of the channel</a></li> <br>
+           <li><a href="https://www.facebook.com/cocktails.channel.9" target="_blank">Facebook of the channel</a></li><br>
+          <li><a href="https://youtube.com/channel/UC1ZdnnqRw5S-GEV-K4j1SGw" target="_blank">youtube of the channel</a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
+
+
+
+
+
+{ 
+    font-weight: bold;
+    text-align: center;
+    
+}
+img
+{
+    width: 200px;
+    border-style:solid;
+}
+
+a:link
+{
+   color:red
+}
+a:visited
+{
+  color:hotpink
+}
+
+
+*
+{
+    background:yellow  ;
+    font-family: cursive;
+    
+}
+p
+{
+    color: blueviolet;
+
+}
+
+
